@@ -185,7 +185,8 @@ body{
 	
 }
 .project {
-    border-radius: 15px;
+	text-decoration: none;
+	border-radius: 15px;
     padding: 15px;
     background-color: #fff;
     max-width: 370px;
